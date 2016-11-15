@@ -1,0 +1,1 @@
+/usr/sbin/openvpn --config /etc/openvpn/hmrc-vpn.conf.ovpn --writepid /var/run/openvpn.pid &
