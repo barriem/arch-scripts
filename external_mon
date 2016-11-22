@@ -1,3 +1,4 @@
 xrandr --output eDP1 --mode 2560x1440 --dpi 140
 xrandr --output DP1 --mode 2560x1440 --dpi 140 --left-of eDP1
+. wallpaper.sh
 i3 restart
