@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --bg-scale /home/baz/pictures/wallpapers/frozen.jpg &
+feh --bg-scale /home/baz/pictures/wallpapers/roadmountain.jpg &
